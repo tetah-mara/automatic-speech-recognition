@@ -2,8 +2,6 @@
 ## Automatic Speech Recognition for some letters.
 ## This project is the ELEC367 Digital Signal Processing Final-Term Project, GTU
 
-# Includes presentation in Turkish.->> sunum.ppsx
-
 recording.py -----> Voice recording for the database is done here.
 
 database (File) -----> The saved .wav files are stored here.
@@ -27,3 +25,5 @@ from fastdtw import fastdtw (or) conda install -c bioconda / label / cf201901 fa
 
 You can import the necessary libraries using the pip install - command.
 ## Have fun 
+
+This project was developed together with @vatozZ
